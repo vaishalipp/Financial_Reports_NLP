@@ -3,6 +3,12 @@ Financial_Reports_NLP
 
 Run Sentiment analysis and Text Summarization on Financial Statements
 
+**White papers**
+------------
+1. Lazy prices - https://www.nber.org/system/files/working_papers/w25084/w25084.pdf
+2. FinBERT - https://www.researchgate.net/publication/334974348_FinBERT_pre-trained_model_on_SEC_filings_for_financial_natural_language_tasks
+3. Financial report summarization - https://www.aclweb.org/anthology/2020.fnp-1.20.pdf
+
 Project Organization
 ------------
 
